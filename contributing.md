@@ -200,6 +200,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Roblox · Updated 2026-11-06 · Shared under the MIT License*
+*Roblox · Updated 2026-11-07 · Shared under the MIT License*
 
-<!-- updated 2026-11-06 -->
+<!-- updated 2026-11-07 -->
